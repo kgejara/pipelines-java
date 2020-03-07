@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kgejara/FabrikamTest/_apis/build/status/kgejara.pipelines-java?branchName=master)](https://dev.azure.com/kgejara/FabrikamTest/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
